@@ -1,7 +1,7 @@
 <a href="https://github.com/CaduR/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Cadu&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=CaduR&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/Cadu/convoychat">
+<a href="https://github.com/CaduR/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cadu&layout=compact&langs_count=9&card_width=420&show_icons=true&theme=tokyonight" />
 </a>
 
